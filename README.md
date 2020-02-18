@@ -1,17 +1,26 @@
 ![](https://github.com/Chakazul/Lenia/blob/master/Screencap/icon2.png)
-# Lenia
 
-*** Ready to run in your Chrome browser!  https://chakazul.github.io/Lenia/JavaScript/Lenia.html
+* [2020-01-13] Major update in Python version: n-Dimensional Lenia. List of changes see [LeniaND changes.txt](Python/LeniaND%20changes.txt)
+* [2019-12-14] Lifeforms found in 3D and 4D Lenia 
+https://twitter.com/BertChakovsky/status/1211010576631005184
+https://twitter.com/BertChakovsky/status/1209177017096163328
+* [2019-10-16] Paper published in Complex Systems journal at https://www.complex-systems.com/abstracts/v28_i03_a01/ 
+* [2019-05-04] Preprint paper updated on arXiv, accepted by Complex Systems journal and waiting for publication  
+* [2018-12-27] Preprint paper "Lenia - Biology of Artificial Life" available at https://arxiv.org/abs/1812.05433
+* [2018-07-19] Ready to run in your browser!  https://chakazul.github.io/Lenia/JavaScript/Lenia.html
+
+# Lenia
 
 Lenia is a 2D [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton) with continuous space, time and states. It produces a huge variety of interesting life forms.
 
 There are various versions available. Python, Matlab and web (JavaScript) versions are real-time, interactive, and equipped with statistics tools. Jupyter and R versions are non-interactive and just for demonstration purposes.
 
-## Animation short
+## Showcase video
 
-[![](https://i.vimeocdn.com/video/710070839_100x75.webp)](https://vimeo.com/277328815) Lenia at Vimeo
+[![screen cap](https://github.com/Chakazul/Lenia/blob/master/Screencap/Video.png)](https://vimeo.com/277328815)
 
-[![](https://img.youtube.com/vi/iE46jKYcI4Y/2.jpg)](https://youtu.be/iE46jKYcI4Y) Lenia at YouTube
+[![Watch in Vimeo](https://chakazul.github.io/icons/vimeo.png)](https://vimeo.com/277328815)
+[![Watch in YouTube](https://chakazul.github.io/icons/youtube.png)](https://youtu.be/iE46jKYcI4Y)
 
 ## Python Version
 
